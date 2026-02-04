@@ -818,3 +818,24 @@ For complete review details, see [PROJECT_REVIEW_REPORT.md](PROJECT_REVIEW_REPOR
 
 **Start your FinOps journey today. Deploy this blueprint to establish cloud financial management across your AWS organization.**
 
+Academic Sources and References for Project:
+
+1. FinOps Foundation. **“FinOps: A New Approach to Cloud Financial Management.”**  
+   https://www.itsvalue.com/wp-content/uploads/2023/10/FinOps-New-Approach-to-Cloud-Financial-Management.pdf  
+   Used for the Inform → Optimize → Operate lifecycle, six FinOps principles, and the distinction between usage and rate optimization that underpins the 90‑day plan and optimization sprints.
+
+2. Amazon Web Services. **“FinOps: Establishing an Operating Model for the Cloud.”**  
+   https://pages.awscloud.com/rs/112-TZM-766/images/FinOps-Establishing-an-Operating-Model-for-the-Cloud.pdf  
+   Informed the AWS Cloud Financial Management (Plan/Save/Run/See) framework, emphasizing account structure, tagging, CUR, Budgets, Cost Explorer, and QuickSight, all reflected in the Terraform landing zone.
+
+3. FinOps Foundation. **“U.S. Public Sector FinOps Playbook.”**  
+   https://www.finops.org/wp-content/uploads/2022/10/FinOps-Foundation_US-Gov-Playbook.pdf  
+   Shaped the operating model, RACI, tagging strategy, and governance narrative, including staged adoption (planning, socializing, operating) and emphasis on budgets, contracts, and showback/chargeback.
+
+4. Hystax / FinOps in Practice. **“From FinOps to Proven Cloud Cost Management.”**  
+   https://finopsinpractice.org/wp-content/uploads/2021/05/FinOps-ebook-From-FinOps-to-proven-cloud-cost-management.pdf  
+   Influenced the cultural and process design by highlighting visibility, continuous optimization, control, collaboration, and the need for ongoing optimization sprints with engineers owning resource lifecycles.
+
+
+
+
